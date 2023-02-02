@@ -10,12 +10,6 @@
 
 <p><i>Possuo mais de 3 anos de experiência com o atendimento ao cliente (telemarketing receptivo), com produtos de consórcio, internet, bancos, seguros, telefone e computadores. Nas áreas de SAC, Backoffice, Suporte Técnico, Auditoria e Cobrança.</i></p>
 
-<img src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3">
-<img src="https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript">
-<img src="https://img.shields.io/badge/TypeScript-gray?style=plastic&logo=typescript">
-<img src="https://img.shields.io/badge/Angular-gray?style=plastic&logo=angular">
-<img src="https://img.shields.io/badge/Bootstrap-gray?style=plastic&logo=bootstrap">
-<img src="https://img.shields.io/badge/TailwindCSS-gray?style=plastic&logo=tailwindcss">
+<img src="https://img.shields.io/badge/HTML5-gray?style=plastic&logo=html5"> <img src="https://img.shields.io/badge/CSS3-gray?style=plastic&logo=css3"> <img src="https://img.shields.io/badge/JavaScript-gray?style=plastic&logo=javascript"> <img src="https://img.shields.io/badge/TypeScript-gray?style=plastic&logo=typescript"> <img src="https://img.shields.io/badge/Angular-gray?style=plastic&logo=angular"> <img src="https://img.shields.io/badge/Bootstrap-gray?style=plastic&logo=bootstrap"> <img src="https://img.shields.io/badge/TailwindCSS-gray?style=plastic&logo=tailwindcss">
 
 
