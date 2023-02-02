@@ -1,4 +1,4 @@
-### Bruno Mota
+<h1>Bruno Mota - Desenvolvedor Front-End</h1>
 
 <img style="width: 360px" align="right" src="https://github.com/brunofrontend/brunofrontend/blob/main/assets/octocat-1675316934262.png" alt="octocat">
 <p>
