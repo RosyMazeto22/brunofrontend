@@ -6,4 +6,4 @@ Atuei como **desenvolvedor fullstack** na CoreBiz. Desenvolvendo aplicações vo
 
 Possuo mais de 3 anos de experiência com o atendimento ao cliente (telemarketing receptivo), com produtos de consórcio, internet, bancos, seguros, telefone e computadores. Nas áreas de SAC, Backoffice, Suporte Técnico, Auditoria e Cobrança.
 
-![octocat-1675316934262.png]()
+![octocat-1675316934262.png](https://github.com/brunofrontend/brunofrontend/blob/main/assets/octocat-1675316934262.png)
